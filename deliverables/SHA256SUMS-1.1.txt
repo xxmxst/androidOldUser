@@ -1,0 +1,5 @@
+89b69fa6f2f353bfb992ce2e369c04e50209e0abf4d9a98a6401f28c480626ad  wechat-catalog-1.1.png
+1fcfaf2dcbfe9ffcdd6e685ffad46f91aed76fe330cc1073d0f88bf47266c52a  wechat-home-1.1.png
+c4bd364b002c6aa041ac0c4d504ab858b9b6137e0991042a4dec2921242cc78c  手机小课堂-1.1-debug.apk
+f22f76249f4c5f4640a1ba825bbd2d6ee5edc4ac7a4daa76e4c3314efbdb1cee  手机小课堂-1.1-源码.zip
+43e3de99aff912e874d9156751822768de76b02608c59e82c8f1c7fde67c7d83  验收记录-1.1.md
